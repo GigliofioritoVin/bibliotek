@@ -347,6 +347,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_iristick_plugin:
+    dependency: "direct main"
+    description:
+      path: "C:\\Users\\Utente\\Desktop\\Iristick\\flutter_iristick_plugin"
+      relative: false
+    source: path
+    version: "0.0.1"
   flutter_launcher_icons:
     dependency: "direct dev"
     description:
